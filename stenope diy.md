@@ -58,7 +58,7 @@ Votre photo est là 🥰
 
 Elle n'est pas très belle ? Pas de panique, cela peut demander quelques essais avant de maitriser l'art du sténopé ! Vous pouvez lire les **compléments théoriques** pour mieux cerner d'où vient le problème ou simplement réessayer !
 
-## 4) Des variantes 
+## 4) Des variantes😎
 
 Je viens de présenter une façon de faire mais il y en a de nombreuses autres. De nombreux paramètres peuvent être changés, en voici quelque uns :
 - 🥫le récipient, ici j'ai pris une cannette mais une boite de conserve ou de thé pourraient très bien faire l'affaire.
