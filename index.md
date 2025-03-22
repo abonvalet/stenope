@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# Le sténopé 📷
+# Le sténopé 📷 **_(Site en travaux)_**
 
 Le sténopé est un dispositif photographique très simple.
 Il peut servir à : 
