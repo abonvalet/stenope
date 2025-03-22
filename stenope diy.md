@@ -14,13 +14,13 @@ Voici un petit tuto pour réaliser un sténopé et prendre une première photo�
 - une aiguille 🪡
 - du scotch noir🩹 (ex : chatterton)
 - du papier photographique⬜
-![cannette pas encore découpée]({% link images/20250322_162959crop.png %})
+
+<img src="images/20250322_162959crop.png" alt="cannette pas encore découpée" width="500"/>
 
 ### b) Découpe✂️
 Découper le bas d'une des deux canettes et le haut de l'autre. Vous avez maintenant un récipient et un capuchon.
 
-<img src="images/20250322_163707crop.png" alt="drawing" width="200"/>
-![cannette découpée]({% link images/20250322_163707crop.png %})
+<img src="images/20250322_163707crop.png" alt="cannette découpée" width="500"/>
 
 ### c) Peinture🎨
 Peindre en noir l’intérieur du récipient et du capuchon. Attendre que le tout sèche.
