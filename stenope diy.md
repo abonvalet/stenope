@@ -19,6 +19,7 @@ Voici un petit tuto pour réaliser un sténopé et prendre une première photo�
 ### b) Découpe✂️
 Découper le bas d'une des deux canettes et le haut de l'autre. Vous avez maintenant un récipient et un capuchon.
 
+<img src="images/20250322_163707crop.png" alt="drawing" width="200"/>
 ![cannette découpée]({% link images/20250322_163707crop.png %})
 
 ### c) Peinture🎨
