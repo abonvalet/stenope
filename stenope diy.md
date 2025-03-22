@@ -5,7 +5,7 @@ in_menu: true
 ---
 # **_(en travaux...)_**
 
-Voici un petit tuto pour réaliser un sténopé et prendre une première photo. Il y a de nombreuses façons d'aborder cette activité, celle présentée ici nécessite peu de matériel.
+Voici un petit tuto pour réaliser un sténopé et prendre une première photo📸 Il y a de nombreuses façons d'aborder cette activité, celle présentée ici nécessite peu de matériel.
 
 ## 1) Fabriquer son sténopé🏗️
 ### a) Matériel nécessaire🧰
