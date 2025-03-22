@@ -64,7 +64,7 @@ Vous pouvez ensuite :
 - ➖en prendre le négatif
 - 🎛️adapter l'exposition, le contraste, etc...
 
-Votre photo est là 🥰
+Et voilà !! Votre photo est là 🥰
 
 Elle n'est pas très belle ? Pas de panique, cela peut demander quelques essais avant de maitriser l'art du sténopé ! Vous pouvez lire les **compléments théoriques** pour mieux cerner d'où vient le problème ou simplement réessayer !
 
