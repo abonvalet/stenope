@@ -1,8 +1,10 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+# Le sténopé
 
-# L'Échappée Belle
+Le sténopé est un dispositif photographique très simple. Il peut servir à comprendre les bases physiques de la photographie ou a simplement s'amuser à prendre des photos insolites.
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Ici vous trouverez des instructions techniques en vue de la réalisation d'un sténopé. Et des compléments théoriques permettant une meilleure compréhension de son fonctionnement. 
