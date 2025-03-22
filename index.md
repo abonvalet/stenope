@@ -3,7 +3,9 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# Le sténopé :camera:
+# Le sténopé
+
+:camera:
 
 Le sténopé est un dispositif photographique très simple. Il peut servir à comprendre les bases physiques de la photographie ou a simplement s'amuser à prendre des photos insolites.
 
