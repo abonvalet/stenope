@@ -25,7 +25,8 @@ Peindre en noir l’intérieur du récipient et du capuchon. Attendre que le tou
 A l'aide de l'aiguille, faire un petit trou (d'un diamètre d'environ 0.5mm) sur le flanc du récipient. C'est par ici que rentrera la lumière !
 
 ### e) Placer le papier⬜
-⚠️⚠️ Cette opération doit être réalisée dans un environnement relativement obscure  🌜adaptez cette précaution en fonction de la sensibilité du papier🌛 ⚠️⚠️
+⚠️⚠️ Cette opération doit être réalisée dans un environnement relativement obscure
+🌜adaptez cette précaution en fonction de la sensibilité du papier🌛 ⚠️⚠️
 
 A l'aide d'un bout de scotch placer le papier photographique dans le récipient en face du trou. Le refermer avec le capuchon et le scotch noir. Boucher aussi le trou avec un bout scotch noir🩹
 
