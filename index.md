@@ -10,9 +10,9 @@ Il peut servir à :
 - s'amuser à prendre des photos insolites👽
 - comprendre les bases physiques de la photographie 🔭
 
-Ici vous trouverez des instructions techniques en vue de la réalisation d'un sténopé 😍
-
-Ainsi que des compléments théoriques permettant une meilleure compréhension de son fonctionnement 🔎
+Ici vous trouverez :
+- des instructions techniques en vue de la réalisation d'un sténopé 😍
+- ainsi que des compléments théoriques permettant une meilleure compréhension de son fonctionnement 🔎
 
 Un exemple :
 
