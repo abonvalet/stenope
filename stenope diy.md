@@ -82,6 +82,8 @@ Elle n'est pas très belle ? Pas de panique, cela peut demander quelques essais 
 
 Je viens de présenter une façon de faire mais il y en a de nombreuses autres. De nombreux paramètres peuvent être changés, en voici quelque uns :
 - 🥫le récipient, ici j'ai pris une cannette mais une boite de conserve ou de thé pourraient très bien faire l'affaire.
+- ⬛le papier photographique, il est possible d'utiliser du film photographique qui a une bien plus grande sensibilité ou encore du papier positif.
 - 📏la distance entre le trou et le papier (parfois appelée focale)
-- ⬛le papier, il est possible d'utiliser du film photographique qui a une bien plus grande sensibilité ou encore du papier positif.
+- 🕳️la taille du trou
+- ⏱️le temps d'exposition
 - etc ... 
