@@ -34,11 +34,21 @@ Peindre en noir l’intérieur du récipient et du capuchon. Attendre que le tou
 ### d) Le trou🪡
 A l'aide de l'aiguille, faire un petit trou (d'un diamètre d'environ 0.5mm) sur le flanc du récipient. C'est par ici que rentrera la lumière !
 
+<img src="images/trou_loin.jpg" alt="trou vu de loin" width="500"/>
+
+<img src="images/trou_proche.jpg" alt="trou vu de proche" width="500"/>
+
 ### e) Placer le papier⬜
 ⚠️⚠️ Cette opération doit être réalisée dans un environnement relativement obscure
 🌜adaptez cette précaution en fonction de la sensibilité du papier🌛 ⚠️⚠️
 
-A l'aide d'un bout de scotch placer le papier photographique dans le récipient en face du trou. Le refermer avec le capuchon et le scotch noir. Boucher aussi le trou avec un bout scotch noir🩹
+A l'aide d'un bout de scotch placer le papier photographique dans le récipient en face du trou.
+
+<img src="images/papier.jpg" alt="papier en position" width="500"/>
+
+Refermer avec le capuchon et le scotch noir. Boucher aussi le trou avec un bout scotch noir🩹
+
+<img src="images/fin.jpg" alt="cannette capuchonée et trou bouché" width="500"/>
 
 La luminosité habituelle peut être restaurée🔆
 ## 2) Poser son appareil📸
