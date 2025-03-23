@@ -11,4 +11,4 @@ On remarque très rapidement que les photos prises avec un sténopé ne sont pas
 
 - le diamètre du trou (noté _d_)
 - la distance entre le trou et le papier (distance focale notée _f'_) 
-- la résolution du papier (notée _r<sub>psub>_) 
+- la résolution du papier (notée _r<sub>p</sub>_) 
