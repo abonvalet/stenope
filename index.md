@@ -14,6 +14,6 @@ Ici vous trouverez :
 - des instructions techniques en vue de la réalisation d'un sténopé 😍
 - ainsi que des compléments théoriques permettant une meilleure compréhension de son fonctionnement 🔎
 
-Un exemple :
+Un exemple d'image obtenue :
 
 ![Un exemple de photo obtenue avec un sténopé]({% link images/photo_6.jpg %}) 
