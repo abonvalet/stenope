@@ -7,8 +7,8 @@ in_menu: true
 
 Le sténopé est un dispositif photographique très simple.
 Il peut servir à : 
-- s'amuser à prendre des photos insolites👽
-- comprendre les bases physiques de la photographie 🔭
+- à prendre des photos insolites👽
+- comprendre certaines bases physiques de la photographie 🔭
 
 Ici vous trouverez :
 - des instructions techniques en vue de la réalisation d'un sténopé 😍
